@@ -3,11 +3,12 @@ content = """
 <!DOCTYPE html>
 <html>
     <head>
-        <tittle>
-
-        </tittle>
+        <title>
+                
+        </title>
     </head>
     <body>
+        <h1 aling="center">Device specification(V.Vashmitha)</h1>
         <table border="5" cellpadding="6">
             <tr>
             <td>s.no</td>

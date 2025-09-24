@@ -42,14 +42,15 @@ content = """
 <!DOCTYPE html>
 <html>
     <head>
-        <tittle>
-
-        </tittle>
+        <title>
+            table
+        </title>
     </head>
     <body>
+          <h1 aling="center">Device specification(V.Vashmitha)</h1>
         <table border="5" cellpadding="6">
             <tr>
-            <td>s.no</td>
+            <tr>S.no</tr>
             <td>devicespecification</td>
             <td>type</td>
             </tr>
@@ -67,7 +68,7 @@ content = """
             <tr>
                 <td>3</td>
                 <td>Installed RAM</td>
-            ]     <td>16.0 GB (15.5 GB usable)</td>
+                 <td>16.0 GB (15.5 GB usable)</td>
             </tr>
             <tr>
                 <td>4</td>
@@ -100,7 +101,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (21).png>)
+![alt text](<Screenshot (38).png>)
 ![alt text](<Screenshot (20).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
